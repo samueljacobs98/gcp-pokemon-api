@@ -10,6 +10,7 @@ import java.util.List;
 
 import static java.lang.Integer.parseInt;
 
+@CrossOrigin
 @RestController
 public class PokemonController {
     @Autowired
