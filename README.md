@@ -1,4 +1,4 @@
-# gcp-pokemon-api
+# Google Cloud Platform hosted Pokemon API (gcp-pokemon-api)
 
 ## Project Overview
 
